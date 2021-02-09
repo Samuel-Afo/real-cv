@@ -1,0 +1,59 @@
+/********************************* TAGS OR ELEMENT SELECTOTS **************************************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  background-color: #EAF6F6;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: #003AB7;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+img: hover{
+  background-color: gold;
+}
+
+/********************************* CLASS(UNDER ATTRIBUTE) SELECTOTS **************************************/
+.first{
+  color: blue;
+}
+
+.second{
+  color: red;
+}
+
+.third{
+  color: green;
+}
+
+.fourth{
+  color: pink;
+}
+
+.camo{
+  border-radius: 100%;
+}
+
+.flage{
+  background-color: red;
+}
+/********************************* ID SELECTOTS **************************************/
+#heading{
+  color: cyan;
+}
